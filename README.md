@@ -16,10 +16,16 @@ Sumber data yang digunakan berasal dari brt.nusantara untuk melihat persebaran h
 
 # *Tangkapan Layar Komponen Penting Produk :* 
 Tampilan Maps
-Tampilan Form Input Data
-Tampilan Tabel Halte, Rute, dan Area Destinasi Wisata
+![image](https://github.com/Kinasih14/pgwl-responsi/assets/142877930/46300619-9568-4dea-a555-a6f1662eb8a0)
 
-<img src = "assets/porto/form.png" alt= "Form Submit" />
-<img src = "assets/porto/peta.png" alt= "Tampilan WebMap" />
-<img src = "assets/porto/tabel.png" alt = "Tabel list" />
+Tampilan Form Input Data
+![image](https://github.com/Kinasih14/pgwl-responsi/assets/142877930/51b5911e-26dc-40c8-82b7-67f158bb8ff9)
+![image](https://github.com/Kinasih14/pgwl-responsi/assets/142877930/1d64e085-4b54-4de8-9ef8-fdc21d37cc25)
+![image](https://github.com/Kinasih14/pgwl-responsi/assets/142877930/0b988012-4911-4db5-83d6-9d732b499372)
+
+Tampilan Tabel Halte, Rute, dan Area Destinasi Wisata
+![image](https://github.com/Kinasih14/pgwl-responsi/assets/142877930/4e401b2a-7909-4dcc-8edc-c4038f8feea2)
+![image](https://github.com/Kinasih14/pgwl-responsi/assets/142877930/3543595c-1418-404e-a699-0398cee42fc5)
+![image](https://github.com/Kinasih14/pgwl-responsi/assets/142877930/737c9a7e-36c1-42e4-b197-f395c4174f5d)
+
 
